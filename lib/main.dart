@@ -30,7 +30,7 @@ class secondappstate extends State<secondapp> {
                   print(displayText);
                 });
               },
-              child: Text("click me"),
+              child: Tex("click me"),
             ),
           ],
         ),
